@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Hi How are you"
 
-eacho "I am good" 
+echo "I am good" 
 
 echo "How are you"
 
