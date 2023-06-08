@@ -1,7 +1,8 @@
-Hi How are you
+#!/bin/bash
+echo "Hi How are you"
 
-I am good 
+eacho "I am good" 
 
-How are you
+echo "How are you"
 
-i am good too
+echo "i am good too"
