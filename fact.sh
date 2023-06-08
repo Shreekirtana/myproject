@@ -1,11 +1,8 @@
 #!/bin/bash
-
-echo "enter the value to find factorial "
-read n
 fact=1
-while [ $n -gt 0 ]
+while [ $1 -gt 0 ]
 do
-fact=`expr $fact \* $n`
-n=`expr $n - 1`
+fact=`expr $fact \* $1`
+1=`expr $1 - 1`
 done
 echo " the factorial value is $fact"
