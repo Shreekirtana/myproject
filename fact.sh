@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "enter the value of"
-read n
+read $n
 fact=1
 while [ $n -gt 0 ]
 do
