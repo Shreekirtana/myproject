@@ -6,6 +6,8 @@ case $1 in
 ;;
 3) echo "This is three"
 ;;
+4) echo "This is Four"
+;;
 *) echo "This is invalid"
 ;;
 esac
